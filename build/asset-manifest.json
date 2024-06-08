@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.9470af8a.js",
+    "static/media/auth-bg.jpg": "/static/media/auth-bg.7bfbfcbce02c2e0f99db.jpg",
+    "static/media/logo.png": "/static/media/logo.5a91fbbac6612567c267.png",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.9470af8a.js.map": "/static/js/main.9470af8a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9470af8a.js"
+  ]
+}
