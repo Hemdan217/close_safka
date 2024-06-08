@@ -206,10 +206,7 @@
       "stock": "stock",
       "amount": "amount",
       "products_price": "products price",
-<<<<<<< HEAD
-=======
       "purchase_price" : "purchase price",
->>>>>>> 230ce1c (Z1 commit)
       "total": "total",
       "note": "note",
       "products": "products",
